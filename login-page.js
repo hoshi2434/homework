@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "Poggers" && password === "owouwuowo") {
         alert("Welcome!");
-        location.reload("/main-page/woah.txt")
+        window.location.href = '/main-page/woah.txt';
     } else {
         loginErrorMsg.style.opacity = 1;
     }
