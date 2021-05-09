@@ -16,8 +16,8 @@ Version
 > ALPHA 0.0.1
 
 Contributers
-> AG (Plagg) | Coding
+> >AG (Plagg) | Coding
 > 
-> Ace | Character Design
+> >Ace | Character Design
 > 
-> Joker | Script Writer
+> >Joker | Script Writer
