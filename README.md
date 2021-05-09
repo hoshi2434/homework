@@ -1,5 +1,5 @@
 # plaggeds.github.io
-Made by nerds who want to get A1s
+Made by weebs who want to get A1s
 
 Status
 > log in: done
