@@ -17,5 +17,7 @@ Version
 
 Contributers
 > AG (Plagg) | Coding
+> 
 > Ace | Character Design
+> 
 > Joker | Script Writer
