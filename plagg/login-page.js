@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "Poggers" && password === "owouwuowo") {
+    if (username === "Senk0w0" && password === "neko neko nii") {
         alert("Welcome!");
         window.location.href = '/main-page/woah.txt';
     } else {
