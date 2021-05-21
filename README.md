@@ -4,7 +4,7 @@ Made by weebs who want to get A1s
 Status
 > log in: done
 >  
-> Custom accounts: Not Done
+> Custom accounts: Done!
 >  
 > Quests: Not Done
 >  
