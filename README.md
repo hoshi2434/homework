@@ -10,7 +10,7 @@ Status
 >  
 > Rewards: Not Done
 >  
-> Dark theme: Not Done
+> Dark theme: Not Done (Idk if this is necessary but sure)
 
 Version
 > ALPHA 0.0.3
