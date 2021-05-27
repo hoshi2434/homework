@@ -13,7 +13,7 @@ Status
 > Dark theme: Not Done
 
 Version
-> ALPHA 0.0.1
+> ALPHA 0.0.3
 
 Contributers
 > >AG (Plagg) | Coding
