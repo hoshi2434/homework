@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "Senk0w0" && password === "neko neko nii") {
         alert("Welcome!");
-        window.location.href = '/main-page/woah.txt';
+        window.location.href = '/plagg/main-page/index.html';
     } else {
         loginErrorMsg.style.opacity = 1;
     }
